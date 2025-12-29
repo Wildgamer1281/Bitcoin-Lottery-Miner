@@ -35,7 +35,7 @@ pip install tqdm
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/VolkanSah/Bitcoin-Lottery-Miner
+   git clone https://github.com/Wildgamer1281/Bitcoin-Lottery-Miner
    ```
 3. Open the script and update the `WALLET_ADDRESS` variable with your Bitcoin wallet address:
    ```python
