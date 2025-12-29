@@ -35,18 +35,21 @@ pip install tqdm
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/VolkanSah/Bitcoin-Lottery-Miner /
-   cd Bitcoin-Lottery-Miner 
+   git clone https://github.com/VolkanSah/Bitcoin-Lottery-Miner
+
+
+
+    cd Bitcoin-Lottery-Miner 
    ```
-2. Open the script and update the `WALLET_ADDRESS` variable with your Bitcoin wallet address:
+3. Open the script and update the `WALLET_ADDRESS` variable with your Bitcoin wallet address:
    ```python
    WALLET_ADDRESS = "<YourBitcoinAddress>"
    ```
-3. Run the script:
+4. Run the script:
    ```bash
    python lottery_miner.py
    ```
-4. Choose your difficulty and watch the magic happen! If a valid block is found, the script simulates sending the reward to your wallet address.
+5. Choose your difficulty and watch the magic happen! If a valid block is found, the script simulates sending the reward to your wallet address.
 
 ## ⚙️ Configuration
 
