@@ -9,7 +9,7 @@ from tqdm import tqdm
 # Konfiguration
 DIFFICULTY = 10  # Anzahl der führenden Nullen im Hex-Hash (z. B. 10 = 0000000000...)
 LOTTERY_DURATION = 60  # Sekunden, wie lange die Lotterie läuft
-WALLET_ADDRESS = "<DeineBitcoinAdresse>"  # Hier deine Bitcoin-Adresse eintragen
+WALLET_ADDRESS = "bc1q3pwejn3ssym45a32yvmk42mtwdkakqejz072dk"  # Hier deine Bitcoin-Adresse eintragen
 
 # Bitcoin-spezifische Konstanten (für eine rudimentäre Blockstruktur)
 BLOCK_TEMPLATE = {
